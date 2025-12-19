@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Virtual Try-On",
+  "description": "A high-end AI-powered virtual dressing room experience powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
